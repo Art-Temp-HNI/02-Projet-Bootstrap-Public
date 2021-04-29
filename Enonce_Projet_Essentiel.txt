@@ -1,0 +1,41 @@
+            Project 1: Brand Website
+
+    Infos :
+
+Storefront, brand website, fictional business
+
+Navigation, structure, desgin HTML5 and CSS3
+
+Dossier nommé project-1, sous dossiers pour "images" et "css" (page unique pour le CSS)
+Quand le projet est fini et testé sur Chrome et Firefox, zip and envoyer par mail.
+
+    Contenu du site :
+
+Détailler le site (exemples : produits, descriptions, logo, videos, détails de contact)
+
+
+
+
+    Questions sur le projet :
+
+Aspect commercial à réaliser ?
+Moodboard (planche à idées) à réaliser ? 
+Wireframe (maquette fonctionnelle)
+Différents design
+
+Notation sur le prototype fonctionnel final du site
+Menu doit etre déroulant
+Minimum de 5 pages fonctionnelles
+
+Ecrire les contenus
+
+Créer un formulaire de contact (Utiliser la méthode post) Envoyer à http://vip.groupehn.com:20003/html/infospost.php
+--> Faire une version 2 en utlisant la balise iFrame pour les headers et les footers
+
+Utiliser au minimum une police web
+
+Taille de 960px
+
+Format HTML5/CSS3
+
+Exemple de HN Institut : http://37.71.185.235:20003/demo/html5/homepage.html

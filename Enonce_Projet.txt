@@ -1,0 +1,173 @@
+			Project 1: Brand Website
+
+	Description
+
+Every small business has its own storefront, whether it be physical or virtual.
+Storefronts provide an entry point for a customer to do business with you.
+Up to this point you have been designing for physical spaces and products.
+For this project, you will learn to expand a brand into a website.
+
+Imagine a fictional business which summarizes the company's mission, values, and products/services.
+You will lightly brand the company,
+then develop a website based on the needs and requirements of the business and its customers.
+You will be expected to do research on similar products/services, take any necessary photos,
+and provide customers with an experience that reflects the company's philosophy.
+This project emphasizes navigation, structure, design and html/css as the main components.
+
+
+	Deliverables
+
+Create a folder called “project-1” with sub folders for "images" and "css"
+(Style the pages using a single separate CSS external file).
+Test your pages along the way.
+
+When it looks finalized, final website must be functional on both Firefox and Chrome. 
+
+Zip and email it to your manager, with this email-subject : yourName-html-project
+
+
+	Competitor Research
+
+Find at least 3 different websites relevant to what your company does.
+These sites are your competition.
+In order to attract your audience to your site, you need to know what you are up against.
+Compare and contrast the sites you found:
+
+What is your first impression / first impulse?
+Is the site organized and the navigation consistent?
+Is there enough or too much content? Is the content interesting/relevant?
+Does the appearance of the site connect with their product?
+What stands out, both good and bad?
+Take screen shots of relevant pages of these websites.
+
+	Persona
+Collect user data through analytics of competitors and contextual research to create a primary user persona.
+Identify behavioral patterns, characteristics, biographical information, and include a photo representation.
+
+	Content Outline
+Using the original design brief as well as your competitor research,
+outline the content that you will be including in your website.
+Be as detailed as possible (i.e. products, descriptions, mission statement, logo, videos, contact details, etc.)
+as this will help you organize your content into a sitemap.
+
+	Concept 
+Based on your competitive research, persona, and moodboard, write a detailed summary about your website's concept,
+include how you will visually and structurally represent your business.
+
+	Sitemap
+Create a site map to show how your content will be organized.
+Your content outline as well as an understanding of the customers needs will help you to separate content into distinct and organized pages.
+
+	Moodboard
+Collect images, colors, type specimens, etc. any any other visual inspiration that represents the character of your company.
+Then compile them into a moodboard that you will use to inform your design decisions.
+Understanding your company’s values will help you choose appropriate color palettes (as well as, typography, images, etc.). In addition, brainstorm a list of descriptive words that will help your build and identity. example
+
+	Identity
+Using your moodboard as a guide, create a logo and branding elements for your company. You will be keeping it simple and sticking to a logotype (either a wordmark or a letterform mark) as we will not be doing any heavy branding in this class. example
+
+	Wireframes
+Translate your sketches into wireframes for your primary and secondary page layouts, or for each unique type of page layout—for some of you this means more than three wireframes.
+
+	Design Comps
+Design three different variations of the graphic user interface—each variation must include designs for a primary and secondary page—this means a total of six design comps. You may use either Adobe Photoshop or Illustrator.
+
+	Prototype
+Your project grade is ultimately based on the final working prototype of your responsive website.
+You will be building the websites using HTML5/CSS3 in the “code” mode of Dreamweaver or a chosen text editor.
+
+ 
+
+
+
+Technical Requirements
+
+Pages:
+
+Main menu must be a dropdown menu.
+Minimum of 5 working pages. No Splash Pages! Do not let the number 5 dictate your site-map.
+
+- Home
+- About
+- Menu
+- Photo Gallery
+- Store
+- Events
+- News
+- Contact
+
+Written Content:
+Write all headings and body copy. You are only allowed to use Lorem Ipsum text on areas longer than 2 paragraphs.
+
+Assets: 
+All assets must be original or copyright-free photos, videos, and/or illustrations.
+
+
+Form:
+Create a contact form. (POST method)
+
+use the right type for fields
+
+send to : http://vip.groupehn.com:20003/html/infospost.php
+
+Web Fonts:
+Minimum of 1 web font
+
+Size: 
+Width should be 960px.
+
+
+Format:
+HTML5/CSS3
+
+Visit our Example here : http://37.71.185.235:20003/demo/html5/homepage.html
+
+ 
+
+Company's mission
+
+
+It is really all about you.
+At MyBestCompany our goals are all about helping you meet and beat your goals. When you succeed we succeed.
+It’s that simple.
+We are a full-service graphic design company with a passion for conceptually driven strategic design and delivering a positive presence for your company on the internet and in print.
+
+We are not…
+- Your average turn and burn design company that really does not care about your success.
+
+- a company with a sales person that is going to try to sell you everything including a ketchup popsicle,
+then hands your project off to an intern who works for peanuts.
+
+How we are different…
+- We are a highly trained creative group with loads of real-world professional experience.
+You can feel safe that the job will be done professionally.
+
+What we can do for you.
+
+Our collaborative group has a decades worth of professional experience in branding, logos, websites, print, photography and fine-arts; offering a full range of services. We can do it for you.
+Branding
+Logos represent your company and act as the heart of your branding. Your logo should tell a story about what your company does, is and stands for.
+A logo might seem like a small addition to your company but it can have huge effects on growth and prosperity. We can make you stand out.
+
+branding logo design
+Websites
+We build customized sites. We are in tune with the latest social marketing strategies and each site is optimized for Search Engines (SEO).
+Want the ability to update your site and check analysis with ease? That’s our specialty! You can check out some of our most recent websites.
+
+Squarespace website example
+Print
+Every bit of communication leaving your company has the opportunity to impress, stand out, win respect and gain new customers. You are a professional, make sure you look that way.
+
+creative print example
+Photography
+Don’t settle for stock photography (people notice). Having photos taken specifically to suit your needs adds a custom look and will help to build trust with your customers.
+With our photo studio on location, we can do it. You can check out some of our Photos
+
+ 
+
+Have a look on our portofolio and let the work speak for itself.
+Here is a small collection of the latest projects. We are constantly completing new projects.
+
+How can we help you?
+We would love to hear from you.
+Shoot us an email.
