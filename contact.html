@@ -5,15 +5,20 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="css/style.css">
   <title>Crumble Corp | Contact</title>
+  <link rel="stylesheet" href="css/bootstrap.min.css">
+  <link rel="stylesheet" href="css/bootstrap-theme.min.css">
+  <link rel="stylesheet" href="css/style.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
 </head>
 
 <body>
 
   <main class="crumble">
 
-    <div class="container" id="banner">
+    <div id="banner">
       <h1>Vous avez une suggestion pour nous ?</h1>
 
       <p>Pour nous contacter, rien de plus simple, remplissez le formulaire ci-dessous. </p>
@@ -23,7 +28,7 @@
 
   </main>
 
-  <div>
+  <br>
 
     <form name="formulaire" action="http://vip.groupehn.com:20003/html/infospost.php" method="POST">
       <div>
@@ -32,12 +37,11 @@
         <p>Email : <input class="in" type="email" placeholder="Votre email"> </p>
 
         <p>Votre commentaire :</p>
-        <p><textarea cols="33" rows="12" placeholder="Vos commentaires"></textarea></p>
-        <p><input type="submit" value="Cliquez ici"></p>
+        <p><textarea cols="60" rows="4" placeholder="Vos commentaires"></textarea></p>
+        <p><input type="submit" value="Cliquez ici" class="btn btn-danger"></p>
       </div>
     </form>
 
-  </div>
 
 </body>
 
